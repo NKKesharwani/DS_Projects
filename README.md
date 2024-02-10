@@ -68,4 +68,4 @@ Further research could explore additional features or enhance model performance.
 Future work could focus on expanding the dataset, exploring advanced machine learning algorithms, and integrating external sources for enhanced classification accuracy.
 
 ## References:
-- Mushroom Dataset: [Link to Dataset]()
+- Mushroom Dataset: [Link to Dataset](https://github.com/NKKesharwani/Mushroom_Classification_Edible_vs_Poisonous/blob/master/Data.csv)
